@@ -1,2 +1,2 @@
-# To_Do_List_Maker
-Javascript tech stack based code to prepare To-Do lists.
+# To Do List App
+A simple To-Do list preparation application built using HTML5, CSS & JavaScript.
